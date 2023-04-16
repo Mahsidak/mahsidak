@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahamud</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh</h3>
+<h3 align="center">Software Engineer at Brain Station 23</h3>
 
 - 🎮 Fun fact **I play fps games**
 
